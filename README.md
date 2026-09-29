@@ -12,6 +12,9 @@ zero, and find out how much an **extra monthly payment** saves you.
 Built for the question behind every big purchase: *"what will this loan really
 cost me — and how do I pay less interest?"*
 
+> 📖 **New here?** Read the full step-by-step guide:
+> [How to Build a Loan Amortization Schedule in Excel (Free Tool)](https://excelguru.io/tutorials/how-to-build-a-loan-amortization-schedule-in-excel-free-tool/) on ExcelGuru.io.
+
 ## What you get
 
 - 💳 **The monthly payment** (the standard amortizing / EMI formula)
